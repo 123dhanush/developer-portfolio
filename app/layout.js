@@ -2,7 +2,6 @@ import { GoogleTagManager } from "@next/third-parties/google";
 import { Inter } from "next/font/google";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import Footer from "./components/footer";
 import ScrollToTop from "./components/helper/scroll-to-top";
 import Navbar from "./components/navbar";
 import "./css/card.scss";
@@ -12,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio of G. V Dhanush Kumar - Software Developer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "My name is GUNTHA VENKATA DHANUSH KUMAR. Results-driven Frontend Engineer with a strong background in building high-performance and scalable web applications using React and modern frontend technologies. Skilled in designing clean UI architectures, optimizing performance, and collaborating with cross-functional teams to deliver exceptional user experiences. Committed to writing maintainable, well-structured code, following best practices, and contributing to business growth through efficient and user-focused solutions.",
 };
 
 export default function RootLayout({ children }) {
