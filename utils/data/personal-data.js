@@ -1,17 +1,19 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  name: "G. V. DHANUSH KUMAR",
+  profile: "/profile.jpeg",
+  designation: "Software Engieer",
+  description:
+    "My name is GUNTHA VENKATA DHANUSH KUMAR. Results-driven Frontend Engineer with a strong background in building high-performance and scalable web applications using React and modern frontend technologies. Skilled in designing clean UI architectures, optimizing performance, and collaborating with cross-functional teams to deliver exceptional user experiences. Committed to writing maintainable, well-structured code, following best practices, and contributing to business growth through efficient and user-focused solutions.",
+  email: "gunthadanush111@gmail.com",
+  phone: "+919739058580",
+  address: "Bangalore India",
+  github: "https://github.com/123dhanush",
+  facebook: "",
+  linkedIn: "https://www.linkedin.com/in/dhanush-guntha-ab7706155/",
+  twitter: "",
+  stackOverflow: "",
+  leetcode: "https://leetcode.com/u/Dhanushguntha/",
+  devUsername: "",
+  resume:
+    "https://drive.google.com/file/d/18PcVivwt-iW5s4W1shCuzYcYn6l91W4c/view?usp=sharing",
+};
