@@ -1,6 +1,6 @@
 export const personalData = {
   name: "G. V. DHANUSH KUMAR",
-  profile: "/profile.jpeg",
+  profile: "/blue_background_profile.png",
   designation: "Software Engieer",
   description:
     "My name is GUNTHA VENKATA DHANUSH KUMAR. Results-driven Frontend Engineer with a strong background in building high-performance and scalable web applications using React and modern frontend technologies. Skilled in designing clean UI architectures, optimizing performance, and collaborating with cross-functional teams to deliver exceptional user experiences. Committed to writing maintainable, well-structured code, following best practices, and contributing to business growth through efficient and user-focused solutions.",
